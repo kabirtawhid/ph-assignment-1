@@ -161,3 +161,62 @@ section.action button{
   margin-left: 59px;
   margin-top: 24px;
 }
+
+
+
+/* Footer */
+
+footer{
+  width: 1140px;
+  /* height: 577px; */
+  background-color: #151414;
+  display: flex;
+  padding: 130px 230px;
+  justify-content: space-between;
+}
+
+.footer-title{
+  color: #f8f8f8;
+  font-size: 45px;
+  font-weight: 700;
+}
+
+.footer-description{
+  color:#f8f8f8;
+  line-height: 26px;
+  margin-top: 16px;
+}
+
+div.about{
+  width: 485px;
+  height: 315px;
+
+}
+
+div.subscribe{
+  width: 325px;
+  height: 404px;
+}
+
+.footer-subtitle{
+  color: #fff;
+  font-size: 25px;
+  line-height: 29px;
+  font-weight: 600;
+}
+
+#email{
+  width: 325px;
+  height: 64px;
+  background-color: #151414;
+  border: 1px solid white;
+  border-radius: 8px;
+  font-size: 18px;
+  line-height: 22px;
+  padding-left: 20px;
+  color: white;
+}
+
+div.subscribe p, div.subscribe button{
+  margin-top: 15px;
+}
