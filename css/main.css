@@ -4,6 +4,16 @@
   margin: 0px;
 }
 
+/* Defining Primary Button Style */
+.btn-primary{
+  height: 64px;
+  color: #005FAC;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 0px;
+  padding: 20px;
+}
+
 /* Header */
 
 div.banner{
@@ -29,3 +39,12 @@ h1.banner-title{
   color: white;
   padding-top: 216px;
 }
+
+p.banner-description{
+  font: 16px;
+  font-weight: 400;
+  color: #fff;
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+
