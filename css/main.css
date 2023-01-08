@@ -1,0 +1,31 @@
+*{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+  margin: 0px;
+}
+
+/* Header */
+
+div.banner{
+  text-align: right;
+  width: 1600px;
+  height: 808px;
+  background-image: url('../images/banner/banner3.png');
+  background-repeat: no-repeat;
+  background-size: 1600px 808px;
+}
+
+div.banner div{
+  width: 525px;
+  text-align: right;
+  /*Positioning The Banner Introduction to Right Side  */
+  margin-left: 845px;
+
+}
+
+h1.banner-title{
+  font-size: 65px;
+  font-weight: 700;
+  color: white;
+  padding-top: 216px;
+}
